@@ -11,7 +11,7 @@ Requires:
 
 import os
 from typing import List, Dict
-from mistralai import Mistral
+from mistralai.client import Mistral
 
 
 # ---------------------------------------------------------------------------
